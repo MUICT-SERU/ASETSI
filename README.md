@@ -43,7 +43,7 @@ Moreover, this project plans to organise a sharing lesson, at the end of the pro
 
 ### Activities Undertaken
 
-![3 Phases of the ASETSI project](images/ASETSI_phases.png "3 Phases of the ASETSI project")
+![3 Phases of the ASETSI project](https://raw.githubusercontent.com/MUICT-SERU/ASETSI/master/images/ASETSI_Phases.png "3 Phases of the ASETSI project")
 
 The programme of work to be performed during the project is separated into three phases : (1) a pre-training study of the challenges in software development in Thailand, (2) a series of trainings/hands-on labs/workshops about advanced ASE tools and techniques, (3) a post-training study of the improvements in software process and products after adopting ASE. The detail of each phase is explained below.
 Phase 1: A pre-training study of the challenges in software development in Thailand (to answer Objective 1 and 3). This phase investigates the current practices being used in their day-to-day software development routines in the Thai industry partners (software SMEs) and identifies the challenges they are facing in terms of costs, time, and software quality. The required tasks include performing a survey of the company's programmers, an observation of the company's software development activities, and analyses of the software products. The tasks will occur in Thailand and will be performed locally by a team of Mahidol researchers, and remotely by UCL researchers. The findings from this phase will be used to set the focus of the knowledge transfer in Phase 2. The deliverable of this phase is a technical report.

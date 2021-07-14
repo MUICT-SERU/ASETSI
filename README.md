@@ -2,7 +2,7 @@
 ### [Industry Academia Partnership Programme (IAPP 18/19)](https://www.raeng.org.uk/grants-prizes/grants/international-research-and-collaborations/newton-fund-programmes/industry-academia-partnership/industry-academia-partnership-thailand) No. 74
 
 ### Problem Statement
-Problem statement – The collaboration aims to improve the quality of software development processes and products in Thailand’s software industry by transferring the knowledge of state-of-the-art automated software engineering (ASE) tools and techniques from the UK experts.
+This Thai-UK collaboration aims to improve the quality of software development processes and products in Thailand’s software industry by transferring the knowledge of state-of-the-art automated software engineering (ASE) tools and techniques from the UK experts.
 
 ### Overview of the Project
 The software industry has become an integral part of Thailand's competitiveness and the country's future development plan (Thailand 4.0 and the 20-year roadmap). The current state-of-the-art in software engineering (i.e., the application of engineering approaches to software development and its artefacts) is automated software engineering (ASE), which is an adoption of automated tools and techniques to help human programmers plan, develop, and maintain software. Nonetheless, ASE is still a relatively new concept in Thailand software industry.

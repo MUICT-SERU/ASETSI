@@ -1,6 +1,8 @@
 ## Automated Software Engineering for Thailand Software Industry (ASETSI)
 ### [Industry Academia Partnership Programme (IAPP 18/19)](https://www.raeng.org.uk/grants-prizes/grants/international-research-and-collaborations/newton-fund-programmes/industry-academia-partnership/industry-academia-partnership-thailand) No. 74
 
+---
+
 ### New! Seminar: Continuous integration, continuous inspection, and automated code review
 #### 29-30 July 2021 2-5 pm (Thailand time) Online (Zoom Meeting)
 <img width="300px" src="https://muict-seru.github.io/img/seminars/ASETSI_Workshop1_poster.jpeg" />
@@ -27,16 +29,16 @@ This project provides benefits to both the UK and the Thai partners. First, it p
 2 May 2019 - 30 November 2022 (extended)
 
 ### Team
-- Chaiyong Ragkhitwetsagul, Lecturer, Mahidol University, Thailand (Co-PI Thailand)
-- Morakot Choetkiertikul, Lecturer, Mahidol University, Thailand
-- Thanwadee Sunetnanta, Assistant Professor, Mahidol University, Thailand
-- Jens Krinke, Associate Professor, University College London, UK (Co-PI UK)
-- Federica Sarro, Professor, University College London, UK
+- [Chaiyong Ragkhitwetsagul, Lecturer, Mahidol University, Thailand (Co-PI Thailand)](https://cragkhit.github.io/)
+- [Morakot Choetkiertikul, Lecturer, Mahidol University, Thailand](https://morakotch.wordpress.com/)
+- [Thanwadee Sunetnanta, Assistant Professor, Mahidol University, Thailand](http://mucc.mahidol.ac.th/~ittth/)
+- [Jens Krinke, Associate Professor, University College London, UK (Co-PI UK)](http://www0.cs.ucl.ac.uk/staff/j.krinke/)
+- [Federica Sarro, Professor, University College London, UK](http://www0.cs.ucl.ac.uk/staff/F.Sarro/)
 - Prodo.AI (UK Industry Partner) 
-- ProGaming (Thai Industry Partner) 
-- CourseSquare (Thai Industry Partner)
-- Trinity Roots (Thai Industry Partner)
-- Robolingo (Zwiz.AI) (Thai Industry Partner)
+- [ProGaming (Thai Industry Partner)](https://www.progaming.co.th/)
+- [CourseSquare (Thai Industry Partner)](https://www.coursesquare.co/)
+- [Trinity Roots (Thai Industry Partner)](https://www.roots.tech/)
+- [Robolingo (Zwiz.AI) (Thai Industry Partner)](https://www.zwiz.ai/)
 
 ### Goals and Objectives
 1. The project aims to investigate the challenges in software engineering that

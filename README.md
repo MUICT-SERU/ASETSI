@@ -13,6 +13,9 @@ We have organized the first seminar to transfer the ASE knowledge from the UK to
 
 1. [Continuous Integration](https://drive.google.com/file/d/1xY8WEnIlcmiO3cqbFi19QkJ192rOm9Bj/view?usp=sharing)
 2. [Software Measurements](https://drive.google.com/file/d/1xY-nPkbFvL_oY8CcOfLL_Hgim4oSu1Tl/view?usp=sharing)
+3. [Technical Debt](https://drive.google.com/file/d/1y87ZgoRp2ga58LQF3R1DZs59INgQGBNn/view?usp=sharing)
+4. [Code Review](https://drive.google.com/file/d/1y80KHAGrUzOuX-MziptaJr0yqeF8txXR/view?usp=sharing)
+5. [Automated Code Review](https://drive.google.com/file/d/1y4H5QQfr0DigPJo69WZ9XMTZdH14q2Mc/view?usp=sharing)
 
 ---
 

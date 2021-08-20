@@ -10,7 +10,7 @@
 We have organized the first seminar to transfer the ASE knowledge from the UK to Thailand on the topic of "Continuous integration, continuous inspection, and automated code review" on 29-30 July 2021 2-5 pm (2 days) via Zoom meeting. The seminar is lead by Dr. Jens Krinke, Associate Professor, Director of the Centre for Research on Evolution Search & Testing (CREST) in the Software Systems Engineering Group, UCL, UK, which covers the concept of automated software engineering (ASE) including continuous integration, continuous inspection, and automated code review, and their adoption in software projects. The ASE tools and techniques aim to improve the quality of the software and software development process with minimum human intervention. This workshop is for software companies, researchers, instructors, and students who are interested in software engineering methodologies. 
 
 ### Videos
-- Day 1 - 29 July 2021: [Video](https://mediacentral.ucl.ac.uk/Play/68374])
+- Day 1 - 29 July 2021: [Video](https://mediacentral.ucl.ac.uk/Play/68374)
 - Day 2 - 30 July 2021: [Video](https://mediacentral.ucl.ac.uk/Play/68375)
 
 ### Slides (PDF)

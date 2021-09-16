@@ -4,7 +4,7 @@
 ---
 ### Online Survey
 
-<img width="800px" src="https://raw.githubusercontent.com/MUICT-SERU/ASETSI/master/images/ASETSI_Survey_Poster.png" />
+<img width="600px" src="https://raw.githubusercontent.com/MUICT-SERU/ASETSI/master/images/ASETSI_Survey_Poster.png" />
 
 ขอเชิญชวนนักพัฒนาซอฟต์แวร์ (ได้ทั้ง programmer, tester, project manager, etc.) ช่วยตอบแบบสอบถามเรื่อง "วิศวกรรมซอฟต์แวร์อัตโนมัติในประเทศไทย" เพื่อศึกษาถึงความรู้ ความเข้าใจ และปัญหาจากการใช้งาน (หรือการจะนำมาใช้งาน) ของวิศวกรรมซอฟต์แวร์อัตโนมัติให้มากขึ้น
 

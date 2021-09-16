@@ -3,6 +3,9 @@
 
 ---
 ### Online Survey
+
+<img width="800px" src="https://raw.githubusercontent.com/MUICT-SERU/ASETSI/master/images/ASETSI_Survey_Poster.png" />
+
 ขอเชิญชวนนักพัฒนาซอฟต์แวร์ (ได้ทั้ง programmer, tester, project manager, etc.) ช่วยตอบแบบสอบถามเรื่อง "วิศวกรรมซอฟต์แวร์อัตโนมัติในประเทศไทย" เพื่อศึกษาถึงความรู้ ความเข้าใจ และปัญหาจากการใช้งาน (หรือการจะนำมาใช้งาน) ของวิศวกรรมซอฟต์แวร์อัตโนมัติให้มากขึ้น
 
 The research team invites all software-related personels (programmers, testers, project managers, etc.) participate in the online survey "Automated Software Engineering Adoption in Thailand" to study the knowledge, awareness, and challenges from adoption (or plan to adopt) of automated software engineering in Thailand.

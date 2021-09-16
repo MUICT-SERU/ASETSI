@@ -2,8 +2,16 @@
 ### [Industry Academia Partnership Programme (IAPP 18/19)](https://www.raeng.org.uk/grants-prizes/grants/international-research-and-collaborations/newton-fund-programmes/industry-academia-partnership/industry-academia-partnership-thailand) No. 74
 
 ---
+### Online Survey
+ขอเชิญชวนนักพัฒนาซอฟต์แวร์ (ได้ทั้ง programmer, tester, project manager, etc.) ช่วยตอบแบบสอบถามเรื่อง "วิศวกรรมซอฟต์แวร์อัตโนมัติในประเทศไทย" เพื่อศึกษาถึงความรู้ ความเข้าใจ และปัญหาจากการใช้งาน (หรือการจะนำมาใช้งาน) ของวิศวกรรมซอฟต์แวร์อัตโนมัติให้มากขึ้น
 
-### New! Seminar: Continuous integration, continuous inspection, and automated code review
+The research team invites all software-related personels (programmers, testers, project managers, etc.) participate in the online survey "Automated Software Engineering Adoption in Thailand" to study the knowledge, awareness, and challenges from adoption (or plan to adopt) of automated software engineering in Thailand.
+
+Survey Link: [https://forms.gle/YkAnGANmRAE5t7ge8](https://forms.gle/YkAnGANmRAE5t7ge8)
+
+---
+
+### Seminar: Continuous integration, continuous inspection, and automated code review
 #### 29-30 July 2021 2-5 pm (Thailand time) Online (Zoom Meeting)
 <img width="300px" src="https://muict-seru.github.io/img/seminars/ASETSI_Workshop1_poster.jpeg" />
 

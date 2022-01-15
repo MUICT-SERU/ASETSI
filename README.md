@@ -1,7 +1,7 @@
 ## Automated Software Engineering for Thailand Software Industry (ASETSI)
 ### [Industry Academia Partnership Programme (IAPP 18/19)](https://www.raeng.org.uk/grants-prizes/grants/international-research-and-collaborations/newton-fund-programmes/industry-academia-partnership/industry-academia-partnership-thailand) No. 74
 ---
-[HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
+Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 ---
 ### Online Survey
 
@@ -16,7 +16,7 @@ The research team invites all software-related personels (programmers, testers, 
 
 ### News & Updates
 * 17-Dec-2021: The first phase of the study titled "Identifying Software Engineering Challenges in Software SMEs: A Case Study in Thailand" has been published in the Industry Track of the 29th International Conference on Software Analysis, Evolution, and Reengineering (SANER’22)! See more info in the [publications](publications.md) page.
-#### See more news & updates [>> here <<](news.md).
+* See more news & updates [>> here <<](news.md).
 
 --- 
 

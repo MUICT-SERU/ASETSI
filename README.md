@@ -11,8 +11,10 @@
 The research team invites all software-related personels (programmers, testers, project managers, etc.) participate in the online survey "Automated Software Engineering Adoption in Thailand" to study the knowledge, awareness, and challenges from adoption (or plan to adopt) of automated software engineering in Thailand.
 
 Survey Link: [https://forms.gle/YkAnGANmRAE5t7ge8](https://forms.gle/YkAnGANmRAE5t7ge8)
-
 ---
+
+### News & Updates
+See more news & updates [>> here <<](news.md).
 
 ### Problem Statement
 This Thai-UK collaboration aims to improve the quality of software development processes and products in Thailand’s software industry by transferring the knowledge of state-of-the-art automated software engineering (ASE) tools and techniques from the UK experts.

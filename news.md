@@ -1,4 +1,9 @@
 # NEWS & UPDATES
+---
+
+Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
+
+---
 ## July 2021
 ### Seminar: Continuous integration, continuous inspection, and automated code review
 #### 29-30 July 2021 2-5 pm (Thailand time) Online (Zoom Meeting)

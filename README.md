@@ -1,6 +1,7 @@
 ## Automated Software Engineering for Thailand Software Industry (ASETSI)
 ### [Industry Academia Partnership Programme (IAPP 18/19)](https://www.raeng.org.uk/grants-prizes/grants/international-research-and-collaborations/newton-fund-programmes/industry-academia-partnership/industry-academia-partnership-thailand) No. 74
-
+---
+[HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 ---
 ### Online Survey
 

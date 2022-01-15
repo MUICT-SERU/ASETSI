@@ -4,6 +4,10 @@
 Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 
 ---
+## Dec 2022
+* 17-Dec-2021: The first phase of the study titled “Identifying Software Engineering Challenges in Software SMEs: A Case Study in Thailand” has been published in [the Industry Track of the 29th International Conference on Software Analysis, Evolution, and Reengineering (SANER’22)](https://saner2022.uom.gr/)! 
+* See more info in the [publications page](publications.md).
+---
 ## July 2021
 ### Seminar: Continuous integration, continuous inspection, and automated code review
 #### 29-30 July 2021 2-5 pm (Thailand time) Online (Zoom Meeting)

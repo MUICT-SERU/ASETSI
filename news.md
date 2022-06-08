@@ -4,8 +4,16 @@
 Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 
 ---
+## June 2022
+### Seminar: Now You See Me: Understand Your Software with Code Analysis Using SonarQube
+#### 22 June 2022 1-5 pm (Thailand time) Online (Webex Meeting)
+<img width="300px" src="https://muict-seru.github.io/img/seminars/ASETSI_Workshop2_poster.jpeg" />
+We are organizing the second seminar to transfer the ASE knowledge to Thailand's software industry on the topic of "Now You See Me: Understand Your Software with Code Analysis Using SonarQube". The seminar will be conducted by the 3 researchers at SERU: Asst. Prof. Dr. Thanwadee Sunetnanta, 
+Dr. Morakot Choetkiertikul, and Dr. Chaiyong Ragkhitwetsagul. We will present the concept of software measurement and metrics, followed by code smells and code refactoring. Lastly, we will cover the basic testing concept and automated testing. The participant will have a hands-on exercise by using SonarQube to analyze an open source software project to understand how the presented concepts can be used in practice.
 
-## Dec 2022
+---
+
+## Dec 2021
 * 17-Dec-2021: The first phase of the study titled “Identifying Software Engineering Challenges in Software SMEs: A Case Study in Thailand” has been published in [the Industry Track of the 29th International Conference on Software Analysis, Evolution, and Reengineering (SANER’22)](https://saner2022.uom.gr/)! 
 * See more info in the [publications page](publications.md).
 

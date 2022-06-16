@@ -12,6 +12,13 @@ Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](new
 We are organizing the second seminar to transfer the ASE knowledge to Thailand's software industry on the topic of "Now You See Me: Understand Your Software with Code Analysis Using SonarQube". The seminar will be conducted by the 3 researchers at SERU: Asst. Prof. Dr. Thanwadee Sunetnanta, 
 Dr. Morakot Choetkiertikul, and Dr. Chaiyong Ragkhitwetsagul. We will present the concept of software measurement and metrics, followed by code smells and code refactoring. Lastly, we will cover the basic testing concept and automated testing. The participant will have a hands-on exercise by using SonarQube to analyze an open source software project to understand how the presented concepts can be used in practice.
 
+### Slides (PDF)
+
+1. [Software Metrics](https://drive.google.com/file/d/10zsNocdbQUwRCUlZxFF1vZe2-uLO6PKU/view?usp=sharing)
+2. [Code Smells and Code Refactoring](https://drive.google.com/file/d/1Zs7jS4HgM4WMAofX4gKHI3oyLbyWj--K/view?usp=sharing)
+3. [Software Testing](https://drive.google.com/file/d/1Zw55HtpWuC9p0MdueXCISIdcQ7fHvOYz/view?usp=sharing)
+4. [SonarQube](https://drive.google.com/file/d/1ZzQAIFJiI1SCuN6f4WQGYzU8tYmEyy3g/view?usp=sharing)
+
 ---
 
 ## Dec 2021

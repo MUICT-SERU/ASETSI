@@ -40,10 +40,10 @@ We have organized the first seminar to transfer the ASE knowledge from the UK to
 
 ### Slides (PDF)
 
-1. [Continuous Integration](https://drive.google.com/file/d/1xY8WEnIlcmiO3cqbFi19QkJ192rOm9Bj/view?usp=sharing)
-2. [Software Measurements](https://drive.google.com/file/d/1xY-nPkbFvL_oY8CcOfLL_Hgim4oSu1Tl/view?usp=sharing)
-3. [Technical Debt](https://drive.google.com/file/d/1y87ZgoRp2ga58LQF3R1DZs59INgQGBNn/view?usp=sharing)
-4. [Code Review](https://drive.google.com/file/d/1y80KHAGrUzOuX-MziptaJr0yqeF8txXR/view?usp=sharing)
-5. [Automated Code Review](https://drive.google.com/file/d/1y4H5QQfr0DigPJo69WZ9XMTZdH14q2Mc/view?usp=sharing)
+1. [Continuous Integration](https://drive.google.com/file/d/1XiRRv9mQsHYy0vsj9tS0eb9IGlHElCKj/view?usp=sharing)
+2. [Software Measurements](https://drive.google.com/file/d/1I0kNaXm7ij1hz1xlTaiSD05w9Nz-820F/view?usp=sharing)
+3. [Technical Debt](https://drive.google.com/file/d/1i3BSeLT_SH1d5186ewb6Zh9HT_Ejw_ni/view?usp=sharing)
+4. [Code Review](https://drive.google.com/file/d/15zacOZ_QljpAGrW64R67JfdFKjMVQ9bb/view?usp=sharing)
+5. [Automated Code Review](https://drive.google.com/file/d/12znT6CHBy39AcztXhakRReouUbVFJjcv/view?usp=sharing)
 
 ---

@@ -14,7 +14,7 @@ Dr. Morakot Choetkiertikul, and Dr. Chaiyong Ragkhitwetsagul. We will present th
 
 ### Videos
 - [Video](https://youtu.be/l1AiNj2VWkg)
-- 
+
 ### Slides (PDF)
 
 1. [Software Metrics](https://drive.google.com/file/d/10zsNocdbQUwRCUlZxFF1vZe2-uLO6PKU/view?usp=sharing)

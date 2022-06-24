@@ -2,7 +2,7 @@
 ### [Industry Academia Partnership Programme (IAPP 18/19)](https://www.raeng.org.uk/grants-prizes/grants/international-research-and-collaborations/newton-fund-programmes/industry-academia-partnership/industry-academia-partnership-thailand) - IAPP18-19/74.
 ---
 
-Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
+Menu: [HOME](README.md) | [STUDIES & PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 
 ---
 ### Online Survey

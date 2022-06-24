@@ -1,16 +1,16 @@
 # STUDIES AND PUBLICATIONS
 ---
 
-Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
+Menu: [HOME](README.md) | [STUDIES & PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 
 ---
 This page lists all the studies and publications from this project.
 
 ## Studies
-### Awareness and Adoption of Automated Software Engineering Tools in Thailand
+### Adoption of Automated Software Engineering Tools in Thailand
 Chaiyong Ragkhitwetsagul, Jens Krinke, Morakot Choetkiertikul, Thanwadee Sunetnanta, Federica Sarro
  - [Survey questions](files/asetsi_survey.pdf)
-
+ - [Raw responses (csv)](files/responses.csv)
 ---
 
 ## Publications

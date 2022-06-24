@@ -1,7 +1,7 @@
 # NEWS & UPDATES
 ---
 
-Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
+Menu: [HOME](README.md) | [STUDIES & PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 
 ---
 ## June 2022

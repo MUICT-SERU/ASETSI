@@ -13,7 +13,7 @@ Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](new
 
 The research team invites all software-related personels (programmers, testers, project managers, etc.) participate in the online survey "Automated Software Engineering Adoption in Thailand" to study the knowledge, awareness, and challenges from adoption (or plan to adopt) of automated software engineering in Thailand.
 
-#### Survey Link: [https://forms.gle/YkAnGANmRAE5t7ge8](https://forms.gle/YkAnGANmRAE5t7ge8)
+#### Survey Link: [https://forms.gle/Fhp4pptCLV44fawbA](https://forms.gle/Fhp4pptCLV44fawbA)
 ---
 
 ### News & Updates

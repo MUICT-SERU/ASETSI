@@ -5,8 +5,19 @@ Menu: [HOME](README.md) | [PUBLICATIONS](publications.md) | [NEWS & UPDATES](new
 
 ---
 ## June 2022
+### Seminar: Where Are We and Where Should We Go? Software Quality Improvement for Software SMEs in Thailand
+#### 22 June 2022 9 am -12 pm (Thailand time) Co-located with [JCSSE 2022](https://jcsse2022.cp.su.ac.th/) – Auditorium, Silpakorn University, Wang Tha Phra Campus, Na Pralan Rd., Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok and online via Zoom and Facebook Live (https://www.facebook.com/muict.seru)
+<img width="300px" src="https://muict-seru.github.io/img/seminars/ASETSI_Workshop3_poster.jpeg" />
+
+We are organizing the sharing lessons learned session to transfer the the knowledge from the four partner companies (CourseSquare, ProGaming, Roots, and Zwiz.AI) in the form of a panel discussion about the challenges that they faced in their software development and the experience of adopting automated software engineering tools such as unit testing frameworks and SonarQube. Dr. Jens Krinke also shared his view on the state-of-the-art in automated software engineering and how it would help the software companies in Thailand to improve their software quality and productivity of the team.
+
+### Videos
+- Will be available soon.
+
+---
+
 ### Seminar: Now You See Me: Understand Your Software with Code Analysis Using SonarQube
-#### 22 June 2022 1-5 pm (Thailand time) Online (Webex Meeting)
+#### 16 June 2022 1-5 pm (Thailand time) Online (Webex Meeting)
 <img width="300px" src="https://muict-seru.github.io/img/seminars/ASETSI_Workshop2_poster.jpeg" />
 
 We are organizing the second seminar to transfer the ASE knowledge to Thailand's software industry on the topic of "Now You See Me: Understand Your Software with Code Analysis Using SonarQube". The seminar will be conducted by the 3 researchers at SERU: Asst. Prof. Dr. Thanwadee Sunetnanta, 

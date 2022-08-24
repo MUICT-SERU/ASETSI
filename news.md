@@ -12,7 +12,7 @@ Menu: [HOME](README.md) | [STUDIES & PUBLICATIONS](publications.md) | [NEWS & UP
 We are organizing the sharing lessons learned session to transfer the the knowledge from the four partner companies (CourseSquare, ProGaming, Roots, and Zwiz.AI) in the form of a panel discussion about the challenges that they faced in their software development and the experience of adopting automated software engineering tools such as unit testing frameworks and SonarQube. Dr. Jens Krinke also shared his view on the state-of-the-art in automated software engineering and how it would help the software companies in Thailand to improve their software quality and productivity of the team.
 
 ### Videos
-- Will be available soon.
+- [Opening by Dr. Chaiyong Ragkhitwetsagul](https://www.youtube.com/watch?v=HGagFIDNTa0)
 
 ---
 

@@ -4,6 +4,13 @@
 Menu: [HOME](README.md) | [STUDIES & PUBLICATIONS](publications.md) | [NEWS & UPDATES](news.md)
 
 ---
+## November 2022
+### DevMountain Tech Festival 2: Invited Talk - Automated Software Engineering Tool Adoption in Thailand
+#### 13 November 2022 15.30 - 16.15 (Thailand time), STeP - Science and Technology Park, Chiang Mai, Thailand
+
+Dr. Ragkhitwetsagul gave a talk on the topic of "Automated Software Engineering Tool Adoption in Thailand" at the DevMountain Tech Festival 2 at STeP - Science and Technology Park, Chiang Mai, Thailand on 13 November 2022. The talk summarizes all the findings from the study. We also gathered more responses to the survey of automated software engineering tool adoption in Thailand from the developers who joined the conference.
+
+---
 ## June 2022
 ### Seminar: Where Are We and Where Should We Go? Software Quality Improvement for Software SMEs in Thailand
 #### 22 June 2022 9 am -12 pm (Thailand time) Co-located with [JCSSE 2022](https://jcsse2022.cp.su.ac.th/) – Auditorium, Silpakorn University, Wang Tha Phra Campus, Na Pralan Rd., Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok and online via Zoom and Facebook Live (https://www.facebook.com/muict.seru)

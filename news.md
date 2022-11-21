@@ -10,6 +10,8 @@ Menu: [HOME](README.md) | [STUDIES & PUBLICATIONS](publications.md) | [NEWS & UP
 
 Dr. Ragkhitwetsagul gave a talk on the topic of "Automated Software Engineering Tool Adoption in Thailand" at the DevMountain Tech Festival 2 at STeP - Science and Technology Park, Chiang Mai, Thailand on 13 November 2022. The talk summarizes all the findings from the study. We also gathered more responses to the survey of automated software engineering tool adoption in Thailand from the developers who joined the conference.
 
+![devmountain](https://user-images.githubusercontent.com/1671353/202992953-82cc2afa-9a14-486b-9247-1b658336a7f4.jpeg)
+
 ---
 ## June 2022
 ### Seminar: Where Are We and Where Should We Go? Software Quality Improvement for Software SMEs in Thailand

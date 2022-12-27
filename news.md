@@ -12,6 +12,8 @@ Dr. Ragkhitwetsagul gave a talk on the topic of "Automated Software Engineering 
 
 ![devmountain](https://user-images.githubusercontent.com/1671353/202992953-82cc2afa-9a14-486b-9247-1b658336a7f4.jpeg)
 
+Video recording: [YouTube](https://youtu.be/Cpx1Vf-Qtr8)
+
 ---
 ## June 2022
 ### Seminar: Where Are We and Where Should We Go? Software Quality Improvement for Software SMEs in Thailand

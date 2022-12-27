@@ -17,6 +17,7 @@ The research team invites all software-related personels (programmers, testers, 
 ---
 
 ### News & Updates
+* 13-Nov-2022: The findings from this project was presented at the Dev Mountain Tech Festival 2 in Chiang Mai. See the video recording of the presentation (in Thai) [here](https://youtu.be/Cpx1Vf-Qtr8).
 * 22-Jun-2022: We have organized a sharing lessons learned session by having the four industry partners joining a panel discussion and sharing their challenges and experiences on adopting automated software engineering tools. See more info in the [news](news.md) page.
 * 16-Jun-2022: We have the 2nd workshop "Now You See Me: Understanding your software using SonarQube static code analysis tool". See more info in the [news](news.md) page.
 * 17-Dec-2021: The first phase of the study titled "Identifying Software Engineering Challenges in Software SMEs: A Case Study in Thailand" has been published in the Industry Track of the 29th International Conference on Software Analysis, Evolution, and Reengineering (SANER’22)! See more info in the [publications](publications.md) page.

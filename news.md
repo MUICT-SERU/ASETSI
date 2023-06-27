@@ -25,6 +25,7 @@ We are organizing the sharing lessons learned session to transfer the the knowle
 ### Videos
 - [Opening by Dr. Chaiyong Ragkhitwetsagul](https://www.youtube.com/watch?v=HGagFIDNTa0)
 - [Talk by Dr. Jens Krinke - Automated Software Engineering: Where are we and where are we going?](https://www.youtube.com/watch?v=ZoOgR7Mroa4)
+- [Panel discussion by the four industry partners](https://youtu.be/O7SposrkbEU)
 
 ---
 

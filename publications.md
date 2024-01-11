@@ -9,7 +9,8 @@ This page lists all the studies and publications from this project.
 ## Studies
 ### Adoption of Automated Software Engineering Tools in Thailand
 Chaiyong Ragkhitwetsagul, Jens Krinke, Morakot Choetkiertikul, Thanwadee Sunetnanta, Federica Sarro
- - [Survey questions](files/asetsi_survey.pdf)
+ - [Survey questions (English and Thai)](files/asetsi_survey.pdf)
+ - [Survey questions (English only)](files/asetsi_survey_eng.pdf)
  
 ---
 
